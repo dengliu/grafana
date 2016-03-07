@@ -143,3 +143,4 @@ please [sign the CLA](http://docs.grafana.org/project/cla/)
 Grafana is distributed under Apache 2.0 License.
 Work in progress Grafana 2.0 (with included Grafana backend)
 
+# add a new line
